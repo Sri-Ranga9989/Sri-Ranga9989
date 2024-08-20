@@ -7,6 +7,16 @@
 <h1 align="center">Hi 👋, I'm Puram Sri Ranga a
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFF00&background=111184&center=true&vCenter=true&width=250&height=30&lines=Web+Developer;Designer;Writer;Comic;Nerd;Marvel+Head" alt="Typing SVG" /></a>
  </h1>
+ <h4 align = center>I am constantly pushing my boundaries, developing innovative projects that challenge conventional thinking. While I'm just starting out, each project I take on embodies bold ideas and fresh perspectives. As I continue to evolve, expect to see groundbreaking work that defies expectations and leaves a lasting impression. Feel free to pull or contribute to my projects—your collaboration and insights are always welcome.</h4>
+ <hr>
+<!-- second seciton -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sri-Ranga9989&label=Profile%20views&color=0e75b6&style=flat" alt="Sri Ranga" /> </p>
+<div align="right" >
+  <img width="400" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" alt="MasterHead">
+</div>
+
+
+
 
 
 <h3 align="center">A  full stack developer from India</h3>
