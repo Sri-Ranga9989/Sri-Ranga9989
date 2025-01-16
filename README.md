@@ -5,7 +5,6 @@
 
 
 
-
 <h1 align="center">Hi 👋, I'm Puram Sri Ranga a
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFF00&background=111184&center=true&vCenter=true&width=250&height=30&lines=Web+Developer;Designer;Writer;Comic;Nerd;Marvel+Head" alt="Typing SVG" /></a>
  </h1>
